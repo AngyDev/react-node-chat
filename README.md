@@ -1,2 +1,2 @@
-# react-node-chat
-An instant chat in React and Nodejs
+# React time chat
+A real time chat in React, NodeJS and Socket.io
